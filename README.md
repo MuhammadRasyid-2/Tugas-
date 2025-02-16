@@ -6,17 +6,21 @@ Tata cara installasi ubuntu
 
 1.	Buat Mesin Virtual Baru
 •	Buka VirtualBox dan klik New untuk membuat mesin virtual baru.
+
 •	Beri nama mesin virtual, misalnya "Ubuntu".
+
 •	Pilih Linux dan Ubuntu (64-bit) untuk tipe dan versi.
+
 •	Klik Next. 
+
  ![Screenshot (161)](https://github.com/user-attachments/assets/499d4101-1a2f-4d5f-9032-ddb0ea707673)
 
-2. Atur Memori (RAM) untuk Mesin Virtual
+3. Atur Memori (RAM) untuk Mesin Virtual
 •	Tentukan jumlah RAM yang akan digunakan mesin virtual. Disarankan minimal 2048 MB (2 GB) atau lebih, tergantung kapasitas RAM fisik komputer kamu.
 •	Klik Next. 
  ![Screenshot (162)](https://github.com/user-attachments/assets/c749d6c5-6f15-4087-8c8b-a9582da40c3a)
 
-3. Buat Hard Disk Virtual Baru
+4. Buat Hard Disk Virtual Baru
 •	Pilih Create a virtual hard disk now dan klik Create.  
 •	Pilih tipe hard disk, disarankan untuk memilih VDI (VirtualBox Disk Image).
 ![Screenshot (164)](https://github.com/user-attachments/assets/0d930f8d-9111-41f6-bac4-e4a0d255dbbe)
