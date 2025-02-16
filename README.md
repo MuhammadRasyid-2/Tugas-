@@ -5,9 +5,13 @@ Muhammad rasyid
 Tata cara installasi ubuntu
 
 1.	Buat Mesin Virtual Baru
- •	Buka VirtualBox dan klik New untuk membuat mesin virtual baru.
+
+•	Buka VirtualBox dan klik New untuk membuat mesin virtual baru.
+
 •	Beri nama mesin virtual, misalnya "Ubuntu".
+
 •	Pilih Linux dan Ubuntu (64-bit) untuk tipe dan versi.
+
 •	Klik Next. 
 
  ![Screenshot (161)](https://github.com/user-attachments/assets/499d4101-1a2f-4d5f-9032-ddb0ea707673)
