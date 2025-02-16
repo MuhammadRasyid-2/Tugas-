@@ -1,6 +1,6 @@
-#Muhammad rasyid
+Muhammad rasyid
 
-#09030182428016
+09030182428016
 
 Tata cara installasi ubuntu
 
