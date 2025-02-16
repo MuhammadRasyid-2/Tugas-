@@ -1,5 +1,7 @@
 Muhammad rasyid
+
 09030182428016
+
 Tata cara installasi ubuntu
 
 1.	Buat Mesin Virtual Baru
